@@ -1,0 +1,5 @@
+Monster hitbox extends MonsterHitbox
+
+MonsterHitbox extends SuperZombie
+
+Player extends PlayerHitbox
